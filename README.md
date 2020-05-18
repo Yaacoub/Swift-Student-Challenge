@@ -1,5 +1,6 @@
 # Swift Student Challenge
 Welcome to the repository for all my previous Swift Student Challenge submissions. Feel free to check them out!
+_Additional information is provided in each playground's source file comment section_
 
 ## WWDC 2020
 ### Mother Nature
@@ -9,5 +10,3 @@ Welcome to the repository for all my previous Swift Student Challenge submission
 </a>
 
 [View this project...](WWDC%202020)
-
-[1]: WWDC%202020
