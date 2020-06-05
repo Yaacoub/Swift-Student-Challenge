@@ -1,6 +1,7 @@
 # Swift Student Challenge
 Welcome to the repository for all my previous Swift Student Challenge submissions. Feel free to check them out!
-_Additional information is provided in each playground's source file comment section_
+
+_Additional information is provided in the comment section of each playground's source file._
 
 ## WWDC 2020
 ### Mother Nature
