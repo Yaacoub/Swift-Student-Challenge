@@ -1,6 +1,6 @@
 # Essay
 
-![alt text](WWDC%202020/Mother%20Nature.jpg)
+![Cover Image](/WWDC%202020/Mother%20Nature.jpg)
 
 ## Features and technologies
 
