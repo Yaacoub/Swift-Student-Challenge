@@ -11,3 +11,12 @@ _Additional information is provided in the comment section of each playground's 
 </a>
 
 [View this project...](WWDC%202020)
+
+## WWDC 2021
+### ElectroStar!
+
+<a href="WWDC 2021">
+  <img src="WWDC 2021/ElectroStar!.png" width="200" height="150" alt="Playground Icon"/>
+</a>
+
+[View this project...](WWDC%202021)
