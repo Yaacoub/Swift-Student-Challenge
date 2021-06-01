@@ -1,6 +1,6 @@
 # ElectroStar!
 
-- **Status**: Submitted.
+- **Status**: Accepted.
 - **Technologies Used**: AVFoundation, CoreMotion, SpriteKit, UIKit.
 
 ![Cover Image](/WWDC%202021/ElectroStar!.png)
