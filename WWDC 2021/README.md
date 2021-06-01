@@ -2,7 +2,7 @@
 
 - **Status**: Accepted.
 - **Technologies Used**: AVFoundation, CoreMotion, SpriteKit, UIKit.
-- **Video Demo**: https://youtu.be/pjSYAEYOPhk
+- **Demo Video**: https://youtu.be/pjSYAEYOPhk
 
 ![Cover Image](/WWDC%202021/ElectroStar!.png)
 
