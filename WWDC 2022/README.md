@@ -4,7 +4,7 @@
 - **Technologies Used**: AVFoundation, CoreGraphics, SwiftUI, UIKit, UniformTypeIdentifiers.
 - **Demo Video**: https://youtu.be/t4NQSHLIbaw
 
-![Cover Image](/WWDC%202022/Modulart Studio.png)
+![Cover Image](/WWDC%202022/Modulart%20Studio.png)
 
 ## Content
 
