@@ -3,14 +3,14 @@ Welcome to the repository for all my previous Swift Student Challenge submission
 
 _Additional information is provided in the comment section of each playground's source file._
 
-## WWDC 2020
-### Mother Nature
+## WWDC 2022
+### Modulart Studio
 
-<a href="WWDC 2020">
-  <img src="WWDC 2020/Mother Nature.jpg" width="200" height="150" alt="Playground Icon"/>
+<a href="WWDC 2022">
+  <img src="WWDC 2022/Modulart Studio.png" width="200" height="150" alt="Playground Icon"/>
 </a>
 
-[View this project...](WWDC%202020)
+[View this project...](WWDC%202022)
 
 ## WWDC 2021
 ### ElectroStar!
@@ -20,3 +20,12 @@ _Additional information is provided in the comment section of each playground's 
 </a>
 
 [View this project...](WWDC%202021)
+
+## WWDC 2020
+### Mother Nature
+
+<a href="WWDC 2020">
+  <img src="WWDC 2020/Mother Nature.jpg" width="200" height="150" alt="Playground Icon"/>
+</a>
+
+[View this project...](WWDC%202020)
