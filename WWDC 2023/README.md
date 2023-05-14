@@ -1,6 +1,6 @@
 # Colin's Origins
 
-- **Status**: Submitted.
+- **Status**: Accepted.
 - **Technologies Used**: AVFoundation, CoreGraphics, SpriteKit, SwiftUI, UIKit.
 - **Demo Video**: https://youtu.be/4BUhhSCweqc
 
