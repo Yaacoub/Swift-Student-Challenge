@@ -10,7 +10,8 @@ _Additional information is provided in the comment section of each playground's 
   <img src="WWDC 2023/Colins Origins.png" width="200" height="150" alt="Playground Icon"/>
 </a>
 
-[View this project...](WWDC%202023)
+[Learn More](WWDC%202023)  
+[Repository](https://github.com/Yaacoub/WWDC23-Colins-Origins)
 
 ## WWDC 2022
 ### Modulart Studio
@@ -19,7 +20,8 @@ _Additional information is provided in the comment section of each playground's 
   <img src="WWDC 2022/Modulart Studio.png" width="200" height="150" alt="Playground Icon"/>
 </a>
 
-[View this project...](WWDC%202022)
+[Learn More](WWDC%202022)  
+[Repository](https://github.com/Yaacoub/WWDC22-Modulart-Studio)
 
 ## WWDC 2021
 ### ElectroStar!
@@ -28,7 +30,8 @@ _Additional information is provided in the comment section of each playground's 
   <img src="WWDC 2021/ElectroStar!.png" width="200" height="150" alt="Playground Icon"/>
 </a>
 
-[View this project...](WWDC%202021)
+[Learn More](WWDC%202021)  
+[Repository](https://github.com/Yaacoub/WWDC21-ElectroStar)
 
 ## WWDC 2020
 ### Mother Nature
@@ -37,4 +40,5 @@ _Additional information is provided in the comment section of each playground's 
   <img src="WWDC 2020/Mother Nature.jpg" width="200" height="150" alt="Playground Icon"/>
 </a>
 
-[View this project...](WWDC%202020)
+[Learn More](WWDC%202020)  
+[Repository](https://github.com/Yaacoub/WWDC20-Mother-Nature)
